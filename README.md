@@ -1,0 +1,2 @@
+# EA
+EA for XAUUSD
